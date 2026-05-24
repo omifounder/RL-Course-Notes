@@ -19,8 +19,8 @@ Faculty Fellow . He has nearly two decades of research experience in machine lea
 reinforcement learning. Currently his research interests are centered on learning from and through
 interactions and span the areas of data mining, social network analysis, and reinforcement learning. <br>
 
-COURSE PLAN :
-Week 1: Introduction
+# COURSE PLAN :
+Week 1: Introduction 
 Week 2: Bandit algorithms - UCB, PAC
 Week 3: Bandit algorithms - Median Elimination, Policy Gradient
 Week 4: Full RL & MDPs
@@ -32,3 +32,14 @@ Week 9: Least Squares Methods
 Week 10: Fitted Q, DQN & Policy Gradient for Full RL
 Week 11: Hierarchical RL
 Week 12: POMDPs
+
+## 📚 Course Materials
+
+| Weeks 1-6 | Weeks 7-12 |
+|-----------|------------|
+| **Week 1:** Introduction [📄](path/to/week1.pdf) | **Week 7:** Eligibility Traces [📄](path/to/week7.pdf) |
+| **Week 2:** Bandit algorithms - UCB, PAC [📄](path/to/week2.pdf) | **Week 8:** Function Approximation [📄](path/to/week8.pdf) |
+| **Week 3:** Bandit algorithms - Median Elimination [📄](path/to/week3.pdf) | **Week 9:** Least Squares Methods [📄](path/to/week9.pdf) |
+| **Week 4:** Full RL & MDPs [📄](path/to/week4.pdf) | **Week 10:** Fitted Q, DQN & Policy Gradient [📄](path/to/week10.pdf) |
+| **Week 5:** Bellman Optimality [📄](path/to/week5.pdf) | **Week 11:** Hierarchical RL [📄](path/to/week11.pdf) |
+| **Week 6:** Dynamic Programming & TD [📄](path/to/week6.pdf) | **Week 12:** POMDPs [📄](path/to/week12.pdf) |
