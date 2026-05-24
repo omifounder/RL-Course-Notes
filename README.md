@@ -29,3 +29,18 @@ interactions and span the areas of data mining, social network analysis, and rei
 | **Week 4:** Full RL & MDPs [↗](path/to/week4.pdf) | **Week 10:** Fitted Q, DQN & Policy Gradient [↗](path/to/week10.pdf) |
 | **Week 5:** Bellman Optimality [↗](path/to/week5.pdf) | **Week 11:** Hierarchical RL [↗](path/to/week11.pdf) |
 | **Week 6:** Dynamic Programming & TD [↗](path/to/week6.pdf) | **Week 12:** POMDPs [↗](path/to/week12.pdf) |
+
+## 📚 Course Materials
+
+- **Week 1:** Introduction [📄](path/to/week1.pdf)
+- **Week 2:** Bandit algorithms - UCB, PAC [📄](path/to/week2.pdf)
+- **Week 3:** Bandit algorithms - Median Elimination, Policy Gradient [📄](path/to/week3.pdf)
+- **Week 4:** Full RL & MDPs [📄](path/to/week4.pdf)
+- **Week 5:** Bellman Optimality [📄](path/to/week5.pdf)
+- **Week 6:** Dynamic Programming & TD Methods [📄](path/to/week6.pdf)
+- **Week 7:** Eligibility Traces [📄](path/to/week7.pdf)
+- **Week 8:** Function Approximation [📄](path/to/week8.pdf)
+- **Week 9:** Least Squares Methods [📄](path/to/week9.pdf)
+- **Week 10:** Fitted Q, DQN & Policy Gradient for Full RL [📄](path/to/week10.pdf)
+- **Week 11:** Hierarchical RL [📄](path/to/week11.pdf)
+- **Week 12:** POMDPs [📄](path/to/week12.pdf)
