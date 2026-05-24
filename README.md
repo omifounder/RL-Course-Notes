@@ -19,7 +19,7 @@ Faculty Fellow . He has nearly two decades of research experience in machine lea
 reinforcement learning. Currently his research interests are centered on learning from and through
 interactions and span the areas of data mining, social network analysis, and reinforcement learning. <br>
 
-## 📚 Course Materials
+## 📚 Course Notes
 
 - **Week 1:** Introduction [↗](docs/RL_course_notes_w1_1-26.pdf)
 - **Week 2:** Bandit algorithms - UCB, PAC [↗](docs/RL_course_notes_w2_27-72.pdf)
